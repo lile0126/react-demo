@@ -8,7 +8,7 @@ export default class NavLeft extends Component{
         return (
             <div >
                 <div className="logo">
-                    <img  src="/favicon.ico"/>
+                    <img alt="请稍等" src="/favicon.ico"/>
                     <p className="title">react demo</p>
                 </div>
                
